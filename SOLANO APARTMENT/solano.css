@@ -1,0 +1,165 @@
+.body {
+    background-color: #4a3728;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+    text-align: center;
+} 
+.logo {
+    font-size: 20px;
+    font-weight: bold;
+    color: #FFFFFF;
+    margin-right: auto;
+    padding-top: 30px;
+    padding: 14px 20px;
+}
+.menus {
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 14px 20px;
+    font-size: 11px;
+    font-weight: bold;
+    padding-top: 30px;
+}
+.menu {
+    display: flex;
+    justify-content: right;
+    border-bottom: #000 solid 3px;
+    width: 80%;
+    margin: auto;
+}
+.home {
+    display: flex;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.title {
+    font-size: 70px;
+    text-align: left;
+    padding-left: 200px;
+}
+.preview {
+    background-image: url(images/1Entertainment\ room.jpg);
+    background-size: cover;
+    border-radius: 10px;
+    width: 170px;
+    height: 50px;    
+}
+.paragraph {
+    font-size: 12.4px;
+    text-align: right;
+    padding-right: 200px;
+    padding-left: 500px;
+    padding-top: 50px;
+}
+.icon {
+    background-color: rgba(117, 80, 59, 0.887);
+    color: #fff;
+    border: none;
+    padding: 10px 50px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.iconic {
+    text-align: center;
+}
+.iconic img {
+    width: 80%;
+    height: 650px;
+    background-size: cover;
+    border-radius: 50px;
+}
+.subtitle {
+    font-size: 40px;
+    text-align: left;
+    padding-top: 50px;
+    margin-left: 200px;
+    padding-bottom: 50px;
+}
+.paragraph2 {
+    font-size: 12.5px;
+    text-align: center;
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.rtypes {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+    justify-items: center;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.rooms {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+    justify-items: center;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.rooms img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 50px;
+}
+.rdesc {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+    justify-items: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 80px;
+}
+.vr {
+    width: 100px;
+    height: 100%;
+    background-color: rgba(117, 80, 59, 0.887);
+    margin: 0 20px;
+    font-size: 18px;
+    color: #fff;
+    border-radius: 10px;    
+    font-style: bold;
+    cursor: pointer;
+}
+.location {
+    display: flex;
+    padding-top: 10px;
+    text-align: left;
+    padding-left: 200px;
+    padding-bottom: 100px;
+}
+.map {
+    width: 40%;
+    height: 200px;
+    border-radius: 10px;
+}
+.paragraph3 {
+    font-size: 12.5px;
+    text-align: left;
+    padding-right: 200px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.contact {
+    padding-top: 10px;
+    background-color: rgba(117, 80, 59, 0.887);
+    padding-bottom: 50px;
+}
+.paragraph4 {
+    font-size: 12.5px;
+    text-align: center;
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-top: 10px;
+}
